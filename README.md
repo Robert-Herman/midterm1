@@ -6,15 +6,10 @@ This project calculates the approximate value of pi using the Leibniz and Bailey
 The project is composed of the files:
 
 1) Main
-
 2) Leibniz calculation function
-
 3) Bailey-Borwein-Plouffe calculation function
-
 4) Header file containing mathematical value of pi and the function declarations for Leibniz and BBP
-
 5) Makefile
-
 6) .gitignore
 
 
