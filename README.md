@@ -21,6 +21,6 @@ The main file outputs the 3 separate value(s)
    
    The value of pi using the BBP series until the error is less than 10^-6
 2. The second calculations determine the time per function call for each of series
-3. 
+ 
    Outputted value is the time (between 5-10 sec) and its respective iterations of each series
 3. The third calculation is the ratio of the time required per function call Leibniz/BBP
