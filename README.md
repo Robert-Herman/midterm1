@@ -16,7 +16,9 @@ The project is composed of the files:
 The main file outputs the 3 separate value(s)
 
 1. The first calculations:
+
    The value of pi using the Leibniz series until the error is less than 10^-6
+   
    The value of pi using the BBP series until the error is less than 10^-6
 2. The second calculations determine the time per function call for each of series
    Outputted value is the time (between 5-10 sec) and its respective iterations of each series
