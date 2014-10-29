@@ -1,6 +1,5 @@
 /*
-*
-*
+   Calculation of pi using the Leibniz series
 */
 
 #include <stdio.h>

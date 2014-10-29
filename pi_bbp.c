@@ -1,6 +1,5 @@
 /*
-*
-*
+   Calculation of pi using the Bailey-Borwein-Plouffe series
 */
 
 #include <math.h>
